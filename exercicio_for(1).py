@@ -1,7 +1,7 @@
 qt = 0
 idades = 0
 
-for i in range(3):
+for i in
     idade = int(input("informe sua idade: "))
     if idade <= 18:
         qt += 1
